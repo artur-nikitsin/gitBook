@@ -26,3 +26,6 @@ test
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/gitBook/v16/.suo
